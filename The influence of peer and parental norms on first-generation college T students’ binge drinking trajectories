@@ -1,0 +1,231 @@
+Addictive Behaviors 103 (2020) 106227 
+Contents lists available at ScienceDirect 
+Addictive Behaviors 
+journal homepage: www.elsevier.com/locate/addictbeh 
+The influence of peer and parental norms on first-generation college T
+students’ binge drinking trajectories 
+Graham T. DiGuiseppia,⁎, Jordan P. Davisa, Matthew K. Meiselb, Melissa A. Clarkc, Mya L. Robersond, Miles Q. Otte, Nancy P. Barnettb 
+a Suzanne Dworak-Peck School of Social Work, University of Southern California, 669 W. 34th St., Los Angeles, CA 90089, United States b Center for Alcohol and Addiction Studies, Brown University School of Public Health, Providence, RI 02912, United States 
+c Department of Health Services, Policy and Practice, Brown University School of Public Health, Providence, RI 02912, United States d Department of Epidemiology, Gillings School of Global Public Health, University of North Carolina at Chapel Hill, McGavran-Greenberg Hall, Campus Box 7435, Chapel Hill, NC, 27599, United States 
+e Smith College, 10 Elm Street, Northampton, MA 01063, USA 
+HIGHLIGHTS 
+• First-generation students had steeper declines in binge drinking frequency. 
+• Parental injunctive norms had a strong positive relationship with drinking initially, but then declined. 
+• Peer descriptive norms had a positive and stable relationship with binge drinking over time. 
+
+ARTICLE INFO 
+Keywords: 
+First-generation 
+College 
+Alcohol 
+Social norms 
+1. Introduction 
+ABSTRACT 
+Introduction: First-generation college students are those whose parents have not completed a four-year college degree. The current study addressed the lack of research on first-generation college students’ alcohol use by comparing the binge drinking trajectories of first-generation and continuing-generation students over their first three semesters. The dynamic influence of peer and parental social norms on students’ binge drinking fre quencies were also examined. 
+Methods: 1342 college students (n = 225 first-generation) at one private University completed online surveys. Group differences were examined at Time 1, and latent growth-curve models tested the association between first generation status and social norms (peer descriptive, peer injunctive, parental injunctive) on binge drinking trajectories. 
+Results: Overall, binge drinking frequency tended to decline over the first three semesters of college. After controlling for demographics, substance-free dormitory residence, parental alcohol problems and norms, first generation status was associated with steeper declines in binge drinking frequency. During the first semester, the association between parental injunctive norms and binge drinking frequency was stronger for first-generation students than for continuing-generation students; this influence declined over time for first-generation students. The influence of peer descriptive norms on binge drinking increased for continuing-generation students; while this influence remained stable over time for first-generation students. 
+Conclusions: First-generation student status appears to be protective against binge drinking. Substance-free dormitory residence, and perceived parental and peer norms likely play a role in first-generation students’ tendency to engage in binge drinking less often over the first year of college. 
+drinking (consuming 4/5 or more alcoholic drinks in one sitting for 
+females/males) is common among college students and is associated 
+Alcohol is the most commonly used substance among full-time college students in the United States (Schulenberg et al., 2018). Binge 
+⁎ Corresponding author. 
+E-mail address: diguisep@usc.edu (G.T. DiGuiseppi). 
+https://doi.org/10.1016/j.addbeh.2019.106227 
+with a variety of negative consequences (Wechsler, Lee, Nelson, & Kuo, 2002; White & Hingson, 2013). Current estimates indicate that nearly 
+
+Received 10 July 2019; Received in revised form 12 October 2019; Accepted 17 November 2019 Available online 03 December 2019 
+0306-4603/ © 2019 Elsevier Ltd. All rights reserved. 
+G.T. DiGuiseppi, et al. Addictive Behaviors 103 (2020) 106227 
+
+38% of college students aged 18-22 engaged in binge drinking in the past month (2015). While previous research has identified groups of students at higher risk for experiencing negative alcohol consequences (e.g., fraternity and sorority members, athletes), other college student groups have received less attention. One such group is first-generation college students. 
+Although the definition varies, first-generation college students are often defined as those whose parents have not completed a four-year college degree (Toutkoushian, Stollberg, & Slaton, 2018). First-gen eration students are contrasted with continuing-generation students, who have at least one parent with a college degree (Cataldi, Bennett, & Chen, 2018). About 17% of full-time undergraduates attending four year colleges are first-generation students (Eagan et al., 2017). Com pared to continuing-generation students, more first-generation students identify as racial/ethnic minorities, come from low-income households, and report financial barriers to attaining a higher education (Eagan et al., 2017). 
+While existing research has brought attention to the unique aca demic, social, and familial challenges that first-generation students face (Saenz, Hurtado, Barrera, Wolf, & Yeung, 2007; Cataldi et al., 2018), little is known about first-generation students’ alcohol use, when compared to that of continuing-generation students. One study found that first-generation student status was associated with less heavy drinking (Martinez, Sher, Krull, & Wood, 2009), but another did not find an association between first-generation status and heavy drinking during the first semester (Sher & Rutledge, 2007). Potential drinking differences between these two groups of students may be related to socioeconomic status, which has been positively associated with college student alcohol problems (Harrell, Huang, & Kepler, 2013). Racial and ethnic differences may also play a role, given that a higher proportion of first-generation students identify as racial and ethnic minorities, who, overall, tend to drink less than non-Hispanic White students ((Antin, Lipperman-Kreda, Paschall, Marzell, & Battle, 2013; O’Malley & Johnston, 2002; Wechsler & Kuo, 2003)). 
+Understanding first-generation students’ alcohol use may be parti cularly important for at least two reasons. First, as students whose parents have less experience with higher education, first-generation students may receive less guidance about how to respond to prevailing alcohol use norms on campus. First-generation students may therefore feel more intense pressure than continuing-generation students to conform to perceived normative drinking behavior among their college peers in order to “fit in.” Social norms have consistently and positively been related to students’ own drinking behavior (Borsari & Carey, 2003; Neighbors, Lee, Lewis, Fossos, & Larimer, 2007), but it is unknown whether first-generation and continuing-generation students differ in their susceptibility to conform to such normative beliefs. 
+An alternative hypothesis is that, as the first in their families to obtain a college education, first-generation students also may experi ence high familial pressure to succeed and therefore may be more likely to avoid problematic alcohol use than continuing-generation students. Students’ perceived parental approval of alcohol use (i.e., parental in junctive norms), then, may be an indicator of familial attitudes towards alcohol use. In general, perceived parental norms are a strong predictor of college students’ own alcohol use (Abar & Turrisi, 2008; Messler, Quevillon, & Simons, 2014; Rulison, Wahesh, Wyrick, & DeJong, 2016; White et al., 2006), and may be an important factor contributing to first-generation students’ drinking behavior. 
+2. The present study 
+The study has three aims: Aim 1 tested whether first-generation and continuing-generation students differed regarding demographic and housing characteristics, perceived parental and peer alcohol use norms, and parental alcohol problems (assessed at Time 1). Aim 2 tested whether first-generation student status was associated with both initial levels (e.g., intercepts) and changes (e.g., slopes) in students’ binge 
+2
+drinking trajectories, after controlling for social norms (peer de scriptive, peer injunctive, and parent injunctive) and demographic variables. We hypothesized that first-generation student status would predict lower binge drinking during the first semester, and steeper declines in binge drinking frequency across students’ second and third semesters. For Aim 3, we tested relationships between three social norms variables and first-generation and continuing-generation stu dents’ binge drinking trajectories. Further, we sought to understand the magnitude of the association between these social norms variables and binge drinking using time-varying covariate models. Assuming that first-generation students rely more on their parents’ approval than their peers’ approval to guide their drinking behavior, we proposed that first generation students’ binge drinking would be more strongly influenced by perceived parental injunctive norms than peer norms. We did not propose hypotheses regarding how the magnitude of the relationship between each type of norm and binge drinking frequency would change over time for Aim 3, instead leaving this as an exploratory analysis. 
+3. Methods 
+3.1. Participants and procedures 
+Data come from an alcohol intervention study evaluating the effects of a brief motivational intervention, when delivered to a subset of students who were centrally positioned to influence others in the first year student social network. Full details describing participant re cruitment of the parent study are published elsewhere (Barnett et al., 2019; Ott, Light, Clark, & Barnett, 2018). All incoming first-year stu dents were invited to participate in the parent study during the Fall 2016 semester, with some exceptions. Thirty-one students who were either living off-campus or enrolled in a dual-degree program at a neighboring University were excluded. The University administration provided a roster and contact information for all eligible students. Re cruitment methods included e-mails, postcards delivered to campus mailboxes, social media and in-person advertising, flyering, and an nouncements in large first-year lecture halls. 
+Participants completed survey assessments online during the Fall 2016 (Time 1), Spring 2017 (Time 2), and Fall 2017 (Time 3) semesters. Of the 1660 eligible students, 1342 (81%) enrolled and completed the Time 1 survey. Of these, 1313 (97.8%) completed Time 2, and 1295 (96.5%) completed Time 3. Surveys were available for a two-week period beginning six weeks after each semester began. All procedures were approved by the Institutional Review Board at the University, and all participants provided consent prior to participation. 
+3.2. Measures 
+3.2.1. Demographic and control variables 
+Surveys assessed age, sex, race, ethnicity (Hispanic or non Hispanic), receipt of financial aid, athlete status, and intentions to join a Greek-letter organization (students cannot officially join until their sophomore year at the University). Parental alcohol problems (having at least one biological parent with a “significant drinking problem—one that should or did lead to treatment”) was included as a control vari able, given previous associations with this variable and college alcohol use (Pearson, D’Lima, & Kelley, 2012). Surveys also assessed whether students lived on a substance-free dormitory floor, where it is expected that students will refrain from substance use. 
+3.2.2. First-generation college student status 
+First-generation student status was obtained via self-report by asking participants, “Do you identify as a first-generation student?” (Yes / No). 
+3.2.3. Descriptive norms (Peers) 
+Descriptive binge drinking norms (peers) were assessed by asking, 
+
+G.T. DiGuiseppi, et al. Addictive Behaviors 103 (2020) 106227 
+
+“How many times in the past 30 days do you think the [typical first-year student of your gender] had five or more drinks on one occasion?” (0–30 times). 
+3.2.4. Injunctive norms (Peers and Parents) 
+Injunctive binge drinking norms (peers) were assessed by asking “to what extent do you think the typical person of your same gender in your dorm would approve or disapprove of: having 5 or more drinks on one occasion?” Response options were on a 7-point scale (Strongly dis approve [1], Moderately disapprove [2], Slightly disapprove [3], Neither approve nor disapprove [4], Slightly approve [5], Moderately approve [6], Strongly approve [7]). To assess Injunctive binge drinking norms (for parents), participants were first asked to name up to two influential parental figures using the instructions: “This person could be a biological parent, step-parent, foster parent, grandparent, aunts, uncle, or any other family member/friend you consider to be your parental figure.” For each parental figure named, participants were asked to what extent that person would approve or disapprove of having 5 or more drinks on one occasion, using the same response scale as for peer injunctive norms. For students who named two parental figures, an average perceived approval score was calculated. 
+3.2.5. Alcohol consumption 
+Students’ frequency of binge drinking in the past 30 days was our primary measure of alcohol consumption. Before completing survey questions assessing alcohol use, participants were presented with an image defining a standard drink as “12 oz. of beer, 5 oz. of wine or 1.5 oz. of 80-proof liquor.” Binge drinking frequency was assessed by asking, “Considering all types of alcoholic beverages, how many times during the past 30 days did you have four/five or more drinks in one occasion?” Four or five was displayed for female or male-gendered participants; possible response options ranged from 0 to 30 times. 
+3.3. Data analysis 
+To evaluate Aim 1, Chi-squared tests and independent samples t tests were used to compare differences between first-generation and continuing-generation students on key variables at Time 1. Fisher’s exact tests were used for subgroup comparisons with n < 5 cases for each cell. To evaluate Aim 2, we tested a taxonomy of models using latent growth curve modeling (Grimm, Ram, & Estabrook, 2017). First (null model), we fit an unconditional latent growth model to determine the functional form of the data (e.g., binge drinking) by testing random intercepts, random (versus fixed) linear slopes, and whether a quadratic function (random versus fixed) was needed. In Model 1 we introduced demographic dummy variables, namely race/ethnicity (White race as reference), Hispanic ethnicity, female gender, receipt of financial aid, substance-free floor residence, and parental alcohol problems as pre dictors of the latent growth factors. In Model 2 we introduced peer descriptive norms, peer injunctive norms, and parent injunctive norms as predictors of the latent growth factors. Finally, in Model 3 we in troduced first-generation status (reference: continuing-generation) as a predictor of our latent growth factors. 
+To evaluate Aim 3, we used multi-group latent growth curve models (see Fig. 1 for a conceptual model). Here, we used first-generation student status as our grouping factor and estimated latent growth curves for individuals who identified as first-generation and those who did not. In multi-group models each of the parameters are tested for equality across groups (e.g., means, variances, co-variances, and re sidual co-variances). To understand the relative influence of peer and parent binge drinking norms, we estimated models that introduced time invariant covariates to the latent growth models. That is, at each time point, we regressed our norm variables (i.e., parent injunctive, peer descriptive and injunctive) onto the contemporaneous observed binge drinking variable. This allowed us to determine the effect of parent or peer norms on binge drinking, over time, above and beyond the effects 
+3
+of the underlying growth model. First, we introduced time invariant covariates as constrained predictors (e.g., effects are constrained to be equal over time within each group) and tested this model against a model where time invariant covariates were unconstrained. Doing this tested whether parent or peer norms had consistent, stronger, or weaker influences over time on contemporaneous binge drinking. We used a Wald chi-square test of parameter constraints to test both within- and between-group differences. 
+Because minimal attrition occurred over the course of the study, we assumed data were missing at random, and used a full-information likelihood estimator using Mplus to make use of all available data (version 8; Muthén & Muthén, 1998). 
+4. Results 
+4.1. Sample characteristics 
+As shown in Table 1, compared to continuing-generation students, first-generation students were less likely to identify as White/Caucasian or Asian, and more likely to identify as Black/African-American, His panic or American Indian/Alaskan Native. First-generation students were also more likely to receive financial aid, live on a substance-free dormitory floor, and report having at least one parent with a drinking problem. First-generation students also endorsed lower injunctive norms (peers and parents) than continuing-generation students, al though the magnitude of these differences were quite small (Hedges’ g [peer injunctive] = 0.25, Hedges’ g [parent injunctive] = 0.24). 
+4.2. Binge drinking trajectories 
+Results from our model building process for binge drinking can be found in Table 2. Briefly, the results indicate a random slope and constrained residual variances fit the data best. Here, we had a sig nificant intercept (μ SE p = =< 2.09, 0.08, 0.00) intercept and a sig nificant negative slope (μ SE p =− = = 0.079, 0.03, 0.02) slope . This in dicates an overall decline in binge drinking frequency over time, which can also be gleaned from the mean binge drinking frequencies at each time point in Table 1. In Model 1 (Table 2), when introducing demo graphic covariates, we found that living on a substance-free floor and receipt of financial aid were significantly associated with lower initial levels of binge drinking. White race and substance-free floor were sig nificantly associated with a less steep slope (e.g., less negative) over the first three semesters. In Model 2, we found that all norms (peer de scriptive, peer injunctive, and parental injunctive) had significant and positive associations with binge drinking intercepts (Table 2, Model 2). However, when estimating slopes, only peer descriptive norms were significantly associated with a steeper slope (e.g., more negative) in binge drinking. Finally, in Model 3, we found that first-generation status was not significantly associated with initial levels of binge drinking but was significantly associated with a steeper slope (e.g., more negative) of binge drinking over time. This is also evident in the steeper decrease in mean binge drinking frequency for first-generation students from Time 1 to Time 2 (see Table 1). 
+4.3. Effects of norms on binge drinking for first-generation and continuing generation students 
+In our final model, all latent factor means, variances, co-variances, and residual covariances were allowed to be freely estimated across groups. 
+4.3.1. Parental injunctive norms 
+Results of our model fitting process indicated a model where the effect of parental injunctive norms was unconstrained (e.g., freely es timated over time) for first-generation college students, but constrained 
+
+G.T. DiGuiseppi, et al. Addictive Behaviors 103 (2020) 106227 
+Fig. 1. Above is the conceptual multi-group latent growth model with time varying co-variates used to test Aim 3. The intercept and slope of binge drinking are represented by Bngint and Bngslp, respectively. The time varying co-variates are represented by the observed variables labeled Nrmx where “x” represents the time specific effect of norms (parental norms, peer injunctive norms, or peer descriptive norms) on the concurrent time-specific observed binge drinking variable. All parameters across first-generation and continuing education students were tested for equality across groups. 
+Table 1 
+Sample Characteristics and Group Comparisons (N = 1,342). 
+Continuing-generation students (n = 1,117) First-generation students (n = 225) 
+Variable n (%) or M (SD) n (%) or M (SD) χ2 or t p Male 507 (84.6%) 92 (15.4%) 1.56 0.21 Female 609 (82.1%) 133 (17.9%) 
+Race 
+White/Caucasian 752 (67.3%) 116 (51.6%) 20.38 < 0.001 Black/African-American 88 (7.9%) 47 (20.9%) 35.04 < 0.001 Asian 338 (30.3%) 52 (23.1%) 4.64 0.03 American Indian/Alaskan Native/Native Hawaiian/Pacific Islander 27 (2.4%) 13 (5.8%) 8.58 0.003 Other 20 (1.8%) 3 (1.3%) – 0.78 Hispanic Ethnicity 120 (10.8%) 83 (36.9%) 99.57 < 0.001 Receiving Financial Aid 437 (39.1%) 194 (86.2%) 166.77 < 0.001 Greek Intentions 400 (35.8%) 77 (34.2%) 0.21 0.65 Athlete 163 (14.6%) 25 (11.1%) 1.88 0.17 Substance-free Dormitory Floor 132 (11.8%) 50 (22.2%) 17.3 < 0.001 Parental Alcohol Problem(s) 88 (7.9%) 38 (16.9%) 18.94 < 0.001 Peer Norms 
+Descriptive Norms (Binge Drinking) 3.39 (2.79) 3.37 (3.02) 0.051 0.96 Injunctive Norms (Binge Drinking) 3.73 (1.20) 3.42 (1.37) 3.11 0.002 Parent Norms 
+Injunctive Norms (Binge Drinking) 1.96 (1.09) 1.70 (1.03) 3.24 0.001 Binge Drinking Frequency 
+Time 1 2.19 (2.96) 1.65 (2.96) 2.49 0.01 Time 2 2.08 (2.72) 1.38 (2.30) 3.93 < 0.001 Time 3 2.06 (2.60) 1.31 (1.93) 4.88 < 0.001 
+- Fisher's exact test; no test statistic is provided. 
+Note: All statistics reported at Time 1 unless otherwise indicated. 
+4
+G.T. DiGuiseppi, et al. Addictive Behaviors 103 (2020) 106227 
+
+Table 2 
+Results of model building process for binge drinking latent growth curve models. 
+Model 1 Model 2 Model 3 
+Variable b (SE) b (SE) b (SE) Latent Growth 
+parameters 
+Intercept 2.30 (0.17)* 0.12 (0.29) 0.13 (0.29) Slope −0.24 (0.07)* 0.16 (0.14) 0.18 (0.14) Variances 
+Intercept 5.65 (0.32)* 4.98 (0.29)* 4.98 (0.29)* Slope 0.25 (0.08)* 0.23 (0.08)* 0.22 (0.08)* Effect on intercept 
+Male Gender 0.51 (0.16)* 0.24 (0.16) 0.24 (0.16) White Race 0.18 (0.17) −0.12 (0.17) −0.12 (0.17) Hispanic Ethnicity −0.03 (0.24) −0.20 (0.23) −0.20 (0.24) 
+4.3.2. Peer descriptive norms 
+The best fitting model constrained peer descriptive norms to be equal over time for first-generation college students, and unconstrained (e.g. freely estimated at each time point) for continuing-generation students (see Table 3, Model 2). For first-generation students, peer descriptive norms had positive, stable associations with binge drinking over time (b p = = 0.11, 0.001). For continuing-generation students, peer descriptive norms showed positive, increasing associations with contemporaneous binge drinking (Time 1: b = 0.12; Time 3: b = 0.26), with the association at Time 3 being significantly greater than at Time 1 (Waldχ df p = =< 16.5, 1, 0.001 2 ). Between groups, no differences were found at Time 1 (b vs b = = 0.12 . 0.11; 0.14, 1, 0.70 Waldχ df p = =< ) 2 or Time 2 (b = 0.16 . 0.11; 1.97, 1, 0.16) vs b Waldχ df p = = =< 2 , but the association between descriptive binge drinking norms and binge drinking fre 
+
+Substance-free Dorm Floor 
+−2.02 (0.23)* −1.47 (0.23)* −1.47 (0.23)* 
+quency was significantly stronger for continuing-generation students at Time 3 (b =0.26 . 0.11; 13.07, 1, 0.001) vs b Waldχ df p = = =< . 2 
+
+Financial Aid −0.54 (0.16)* −0.45 (0.15)* −0.45 (0.16)* 
+
+Parental Alcohol Problem 
+0.47 (0.27) 0.51 (0.26)* 0.51 (0.26)* 
+4.3.3. Peer injunctive norms 
+
+Peer Descriptive Norms – 0.15 (0.03)* 0.15 (0.03)* Peer Injunctive Norms – 0.28 (0.07)* 0.28 (0.07)* 
+The best fitting models constrained peer injunctive norms to be equal over time for both first-generation and continuing-generation 
+
+Parental Injunctive Norms 
+– 0.42 (0.08)* 0.42 (0.08)* 
+students (see Table 3, Model 3). Peer injunctive norms had a positive, 
+
+First-generation status – – −0.02 (0.22) Effect on slope 
+Male Gender −0.05 (0.07) 0.00 (0.07) −0.003 (0.07) White Race 0.17 (0.08)* 0.21 (0.08)* 0.20 (0.08)* Hispanic Ethnicity 0.18 (0.11) 0.20 (0.10) 0.25 (0.11)* 
+stable association with binge drinking at each time-point for first-gen eration students (b p = = 0.19, 0.01) and continuing-generation stu dents (b p = < 0.18, 0.001). When using equality constraints, we found that these effects were not significantly different between groups (Waldχ df p = == 0.058, 1, 0.81) 2 , indicating that the stable association 
+
+Substance-free Dorm Floor 
+0.26 (0.10)* 0.16 (0.11) 0.17 (0.11) 
+between peer injunctive norms and binge drinking frequency was si 
+
+Financial Aid 0.07 (0.07) 0.05 (0.07) 0.10 (0.08) 
+milar for first-generation and continuing-generation students. 
+
+Parental Alcohol Problem 
+0.01 (0.12) −0.03 (0.12) −0.01 (0.12) 
+5. Discussion 
+
+Peer Descriptive Norms – −0.03 (0.01)* −0.03 (0.01)* Peer Injunctive Norms – −0.06 (0.03) −0.06 (0.03)* 
+
+Parental Injunctive Norms 
+– −0.05 (0.04) −0.05 (0.04) 
+This is the first known study to compare binge drinking trajectories for first-generation students and their continuing-generation peers. 
+
+First-generation status – – −0.23 (0.10)* Fit Statistics 
+−2 LL 16,424.38 16,190.44 16,182.30 AIC 16,460.38 16,238.44 16,234.34 BIC 16,553.15 16,361.96 16,368.15 RMSEA 0.02 0.02 0.01 
+CFI 0.998 0.998 0.998 SRMR 0.008 0.008 0.007 
+Results support our hypotheses for Aim 1, as first-generation students were more likely to identify as underrepresented racial/ethnic groups and to receive financial aid. The proportion of first-generation students who opted to live on a substance-free dormitory floor was twice that of continuing-generation students, suggesting a stronger preference for substance-free living arrangements among first-generation students. As 
+
+Chi square 12.68(9), p = 0.18 
+15.99(12), p = 0.19 
+16.07(13), p = 0.25 
+expected, first-generation students perceived more disapproval of binge drinking from their parents, and unexpectedly, perceived more dis 
+
+Note: −2LL = negative two log likelihood, AIC = Akaike Information Criteria; BIC = Bayesian Information Criteria; RMSEA = Root mean Square Error of Approximation; CFI = Comparative Fit Index; SRMR = Standardized Root Mean Squared Residual. 
+R2 values for intercept and slopes. Model 1 (Intercept = 0.11; slope = 0.05); Model 2 (Intercept = 0.21; slope = 0.12); Model 3 (Intercept = 0.21; slope = 0.15). 
+* p < 0.05. 
+to be equal over time for continuing-generation students. As shown in Table 3 (Model 1), for continuing-generation students, parental in junctive norms were positively associated with binge drinking over time (b p = < 0.38, 0.001), and these associations were constrained to be the same over time. For first-generation college students, parental injunctive norms were positively associated with binge drinking. However, the strength of these associations decreased significantly over time (Time 1: b = 0.80; Time 3: b = 0.32; Waldχ df p = == 6.24, 1, 0.01 2 ). Between groups, the association be tween parental injunctive norms and binge drinking frequency was stronger for first generation students than for continuing generation students at Time 1 (b = = 0.80 . 0.38; vs b Waldχ 2 = 6.43, df = 1, p = 0.01), but not at Time 2 (b = = 0.47 . 0.38; vs b Waldχ 2 = 0.69, df = 1, p = 0.41) or Time 3 (b = = 0.32 . 0.38; vs b Waldχ 2 = 0.23, df = 1, p = 0.63). 
+5
+approval from peers as well. Perceived peer descriptive norms did not differ between the two groups at Time 1. Finally, a greater proportion of first-generation students reported having one or more parents with a history of alcohol problems. 
+Results of the latent growth curve models in Aim 2 revealed overall decreases in students’ binge drinking frequencies over the first year of college. First-generation status was not uniquely associated with lower binge drinking frequency during the first semester, which may be due to other important variables that were controlled for in the model. Results suggest that substance-free residence and receipt of financial aid may be better indicators of lower risk binge drinking during the first se mester than first-generation status, gender, race or ethnicity—although substance-free residence or financial aid do not appear to result in binge drinking declines over time. First-generation status, on the other hand, was associated with greater reductions in binge drinking frequency over time. 
+These findings suggest there may be something unique about the first-generation student experience that accounts for these declines in binge drinking. Aim 3 investigated the possibility that the influence of peer and parental norms during each semester played a role in these group differences. In these analyses, we found that first-generation students differed from continuing-generation students in two ways. First, consistent with our hypothesis, parental injunctive norms were a stronger predictor of binge drinking for first-generation students during 
+
+G.T. DiGuiseppi, et al. Addictive Behaviors 103 (2020) 106227 
+Table 3 
+Multi-Group Latent Growth Curve Models for Binge Drinking Frequency with Time-Varying Covariates. 
+Model 1 Parental Injunctive Norms Model 2 Peer Descriptive Norms Model 3 Peer Injunctive Norms 
+Variable b (SE) b (SE) b (SE) First-Generation Students 
+Parental Injunctive Norms (Time 1) 0.80 (0.16)* a – – Parental Injunctive Norms (Time 2) 0.47 (0.11)* a – – Parental Injunctive Norms (Time 3) 0.32 (0.10)* a – – Peer Descriptive Norms (Time 1) – 0.11 (0.03)* – Peer Descriptive Norms (Time 2) – 0.11 (0.03)* – Peer Descriptive Norms (Time 3) – 0.11 (0.03)* – Peer Injunctive Norms (Time 1) – – 0.19 (0.07)* 
+Peer Injunctive Norms (Time 2) – – 0.19 (0.07)* Peer Injunctive Norms (Time 3) – – 0.19 (0.07)* Growth parameters 
+Intercept 1.02 (0.43)* 2.74 (0.59)* 2.43 (0.63)* Slope −0.20 (0.22) −1.03 (0.27)* −1.12 (0.27)* Variance 
+Intercept 5.19 (0.70)* 5.59 (0.75)* 5.63 (0.76)* Slope 0.48 (0.18)* 0.49 (0.19)* 0.47 (0.19)* Continuing-Generation Students 
+Parental Injunctive Norms (Time 1) 0.38 (0.05)* – – Parental Injunctive Norms (Time 2) 0.38 (0.05)* – – Parental Injunctive Norms (Time 3) 0.38 (0.05)* – – Peer Descriptive Norms (Time 1) – 0.12 (0.02)* a – Peer Descriptive Norms (Time 2) – 0.16 (0.02)* a – Peer Descriptive Norms (Time 3) – 0.26 (0.26)* a – Peer Injunctive Norms (Time 1) – – 0.18 (0.04)* 
+Peer Injunctive Norms (Time 2) – – 0.18 (0.04)* Peer Injunctive Norms (Time 3) – – 0.18 (0.04)* Growth parameters 
+Intercept 1.62 (0.19)* 1.81 (0.20)* 1.56 (0.23)* Slope −0.20 (0.08)* −0.27 (0.09)* −0.18 (0.08) Variance 
+Intercept 5.31 (0.34)* 5.34 (0.34)* 5.41 (0.34)* Slope 0.17 (0.09)* 0.14 (0.09) 0.16 (0.09) 
+Note: All models controlled for male gender, White race, Hispanic ethnicity, financial aid, substance-free dormitory floor residence, and parental alcohol problems. *p < 0.05. 
+a time varying co-variate model. 
+
+the first semester, but this influence weakened over time to eventually match that of continuing-generation students. This suggests that first generation students may look more to their parents as a guide for their own drinking behavior as they transition into college, a setting in which their parents have limited experience. The finding that parental alcohol problems were more prevalent among first-generation students is re levant here, because it suggests that first-generation students may binge drink less over time in reaction to previous alcohol problems experi enced in the family. Secondly, the influence of peer descriptive norms on continuing-generation students’ binge drinking frequency increased over time, but this remained stable for first-generation students. There may be a variety of reasons for this. For one, first-generation students may self-select into peer groups where binge drinking is less prevalent, which may influence their global perceptions of binge drinking fre quency among the “typical” same-gendered student (Kenney, Ott, Meisel, & Barnett, 2017). Another possibility is that first-generation students may be less willing to comply with prevailing binge drinking norms, either because they do not identify with the “typical” student (Lindgren et al., 2016), or perhaps because they are more committed to other activities, like part-time employment. 
+Results from this study can inform University policies and practices aiming to increase support for first-generation college students. College administrators, educators, and health professionals can be aware that first-generation students may be at lower risk of engaging in binge drinking, particularly over subsequent semesters. Policy suggestions include establishing academic and peer-support programming for first generation students that can encourage social cohesion among those who choose not to engage in risky drinking. Such resources can also provide support for other academic and social challenges that first generation students often face in post-secondary education. These types 
+6
+of support programs may be particularly important, given that first generation students tend to report a lower sense of belonging and less utilization of mental health counseling services (Stebleton, Soria, & Huesman, 2014). While the effect of support programs on first-gen eration students’ alcohol use has yet to be examined, more frequent meetings with academic advisors (Swecker, Fifolt, & Searby, 2013), participation in skills learning support programs (Wibrowski, Matthews, & Kitsantas, 2017), and Living-Learning programs (Inkelas, Daver, Vogt, & Leonard, 2007) can improve first-generation students’ academic outcomes and ease their transition to college. Even in the context of lower binge drinking risks, it may remain beneficial for fa culty and staff to address the role of alcohol in first-generation students’ college experience. The role of parents and families cannot be ignored, as parental alcohol problems were more commonly reported, and fa mily expectations regarding alcohol use may be particularly important for first-generation students’ during their transition to college. Alcohol interventions that involve parents (see Napper, LaBrie, & Earle, 2016) may be particularly beneficial for preventing alcohol problems among the minority of first-generation students who are at risk. 
+Of course, this study is not without limitations. For one, this study was conducted at one private University in the northeastern United States, and it is possible that the first-generation students in this study differ from those attending other four-year higher education institu tions. Further, the item used to assess first-generation student status was determined by students’ self-report, not parental education. It is possible that students may have confused this with first-generation immigrant status. However, students at the present University are likely familiar with the concept of a first-generation college student, since ample programming is provided for first-generation students during orientation and throughout the academic year. Additionally, the 
+
+G.T. DiGuiseppi, et al. Addictive Behaviors 103 (2020) 106227 
+
+reference groups for peer descriptive and peer injunctive norms differed slightly and may not be comparable, and perceived norms measures used a general definition of binge drinking for both males and females (≥5 drinks per occasion). Despite these limitations, the current study advances our understanding of risk and protective factors for binge drinking in an understudied group of college students. 
+Declaration of Competing Interest 
+The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influ ence the work reported in this paper 
+Appendix A. Supplementary data 
+Supplementary data to this article can be found online at https:// doi.org/10.1016/j.addbeh.2019.106227. 
+References 
+Abar, C., & Turrisi, R. (2008). How important are parents during the college years? A longitudinal perspective of indirect influences parents yield on their college teens’ alcohol use. Addictive Behaviors, 33(10), 1360–1368. https://doi.org/10.1016/j. addbeh.2008.06.010. 
+Antin, T. M. J., Lipperman-Kreda, S., Paschall, M. J., Marzell, M., & Battle, R. (2013). The role of drinking beliefs to explain ethnic variation in drinking practices among U.S. college students. Substance Use & Misuse. https://doi.org/10.3109/10826084.2013. 821659. 
+Barnett, N. P., Clark, M. A., Kenney, S. R., DiGuiseppi, G., Meisel, M. K., Balestrieri, S., ... Light, J. (2019). Enrollment and assessment of a first-year college class social net work for a controlled trial of the indirect effect of a brief motivational intervention. Contemporary Clinical Trials, 76, 16–23. https://doi.org/10.1016/j.cct.2018.10.015. 
+Borsari, B., & Carey, K. B. (2003). Descriptive and injunctive norms in college drinking: A meta-analytic integration. Journal of Studies on Alcohol, 64(3), 331–341. https://doi. org/10.15288/jsa.2003.64.331. 
+Cataldi, E. F., Bennett, C. T., & Chen, X. (2018). First-generation students: college access, persistence, and postbachelor’s outcomes. Washington, DC: National Center for Education Statistics, U.S. Department of Education. Retrieved from https://nces.ed. gov/pubs2018/2018421.pdf. 
+Eagan, M. K., Stolzenberg, E. B. Zimmerman, H. B. Aragon, M. C., Whang Sayson, H., & Rios-Aguilar, C. (2017). The American freshman: National norms fall 2016. Los Angeles, CA: Higher Education Research Institute, UCLA. Retrieved from https:// www.heri.ucla.edu/monographs/TheAmericanFreshman2016.pdf. 
+Grimm, K. J., Ram, N., & Estabrook, R. (2017). Growth modeling: Structural equation and multilevel modeling approaches. New York, NY: Guilford Press. 
+Harrell, Z. A. T., Huang, J. L., & Kepler, D. M. (2013). Brief report: Affluence and college alcohol problems: The relevance of parent- and child-reported indicators of socio economic status. Journal of Adolescence, 36(5), 893–897. https://doi.org/10.1016/j. adolescence.2013.06.009. 
+Inkelas, K. K., Daver, Z. E., Vogt, K. E., & Leonard, J. B. (2007). Living-learning programs and first-generation college students’ academic and social transition to college. Research in Higher Education, 48(4), 403–434. https://doi.org/10.1007/s11162-006- 9031-6. 
+Kenney, S. R., Ott, M., Meisel, M. K., & Barnett, N. P. (2017). Alcohol perceptions and behavior in a residential peer social network. Addictive Behaviors, 64, 143–147. https://doi.org/10.1016/j.addbeh.2016.08.047. 
+Lindgren, K. P., Neighbors, C., Teachman, B. A., Baldwin, S. A., Norris, J., Kaysen, D., ... Wiers, R. W. (2016). Implicit alcohol associations, especially drinking identity, pre dict drinking over time. Health Psychology, 35(8), 908–918. https://doi.org/10.1037/ hea0000396. 
+Martinez, J. A., Sher, K. J., Krull, J. L., & Wood, P. K. (2009). Blue-collar scholars?: mediators and moderators of university attrition in first-generation college students. Journal of College Student Development, 50(1), 87–103. https://doi.org/10.1353/csd.0. 0053. 
+Messler, E. C., Quevillon, R. P., & Simons, J. S. (2014). The effect of perceived parental approval of drinking on alcohol use and problems. Journal of Alcohol & Drug 
+7
+Education, 58(1), 44. 
+Muthén, L. K., & Muthén, B. O. (1998-2017). Mplus User’s Guide (8th ed.). Los Angeles, CA: Muthén & Muthén. 
+Napper, L. E., LaBrie, J. W., & Earle, A. M. (2016). Online personalized normative alcohol feedback for parents of first-year college students. Psychology of Addictive Behaviors, 30(8), 802–810. https://doi.org/10.1037/adb0000211. 
+Neighbors, C., Lee, C. M., Lewis, M. A., Fossos, N., & Larimer, M. E. (2007). Are social norms the best predictor of outcomes among heavy-drinking college students? Journal of Studies on Alcohol and Drugs, 68(4), 556–565. https://doi.org/10.15288/ jsad.2007.68.556. 
+O’Malley, P. M., & Johnston, L. D. (2002). Epidemiology of alcohol and other drug use among American college students. Journal of Studies on Alcohol. Supplement, 14, 23–39. https://doi.org/10.15288/jsas.2002.s14.23. 
+Ott, M. Q., Light, J. M., Clark, M. A., & Barnett, N. P. (2018). Strategic players for identifying optimal social network intervention subjects. Social Networks, 55, 97–103. https://doi.org/10.1016/J.SOCNET.2018.05.004. 
+Pearson, M. R., D’Lima, G. M., & Kelley, M. L. (2012). Maternal and paternal alcohol misuse and alcohol-related outcomes among college students. Substance Use & Misuse, 47(6), 708–717. https://doi.org/10.3109/10826084.2012.664237. 
+Schulenberg, J. E. Johnston, L. D., O’Malley, P. M., Bachman, J. G., Miech, R. A., & Patrick, M. E. (2018). Monitoring the Future national survey results on drug use, 1975–2017: Volume II, College students and adults ages 19–55. Ann Arbor, MI: Institute for Social Research, The University of Michigan. Retrieved from http:// monitoringthefuture.org/pubs.html#monographs. 
+Saenz, V. B., Hurtado, S., Barrera, D., Wolf, D., & Yeung, F. (2007). First in my family: A profile of first-generation college students at four-year institutions since 1971. Los Angeles, CA: Higher Education Research Institute, UCLA. Retrieved from https:// www.heri.ucla.edu/PDFs/pubs/TFS/Special/Monographs/FirstInMyFamily.pdf. 
+Rulison, K. L., Wahesh, E., Wyrick, D. L., & DeJong, W. (2016). Parental influence on drinking behaviors at the transition to college: the mediating role of perceived friends’ approval of high-risk drinking. Journal of Studies on Alcohol and Drugs, 77(4), 638–648. https://doi.org/10.15288/jsad.2016.77.638. 
+Sher, K. J., & Rutledge, P. C. (2007). Heavy drinking across the transition to college: Predicting first-semester heavy drinking from precollege variables. Addictive Behaviors, 32(4), 819–835. https://doi.org/10.1016/j.addbeh.2006.06.024. 
+Stebleton, M. J., Soria, K. M., & Huesman, R. L. (2014). First-Generation students’ sense of belonging, mental health, and use of counseling services at public research uni versities. Journal of College Counseling, 17(1), 6–20. https://doi.org/10.1002/j.2161- 1882.2014.00044.x. 
+Swecker, H. K., Fifolt, M., & Searby, L. (2013). Academic advising and first-generation college students: a quantitative study on student retention. NACADA Journal, 33(1), 46–53. https://doi.org/10.12930/NACADA-13-192. 
+Toutkoushian, R. K., Stollberg, R. A., & Slaton, K. A. (2018). Talking ’Bout My Generation: Defining “First-Generation College Students” in Higher Education Research. Teachers College Record, 120(4), 1–38. 
+Wechsler, H., & Kuo, M. (2003). Watering down the drinks: The moderating effect of college demographics on alcohol use of high-risk groups. American Journal of Public Health, 93(11), 1929–1933. https://doi.org/10.2105/ajph.93.11.1929. 
+Wechsler, H., Lee, J. E., Nelson, T. F., & Kuo, M. (2002). Underage college students’ drinking behavior, access to alcohol, and the influence of deterrence policies. Findings from the Harvard School of Public Health College Alcohol Study. Journal of American College Health: Journal of ACH, 50(5), 223–236. https://doi.org/10.1080/ 07448480209595714. 
+White, A., & Hingson, R. (2013). The burden of alcohol use: Excessive alcohol con sumption and related consequences among college students. Alcohol Research: Current Reviews, 35(2), 201–218. https://doi.org/10.2105/ajph.93.11.1929. 
+White, H. R., McMorris, B. J., Catalano, R. F., Fleming, C. B., Haggerty, K. P., & Abbott, R. D. (2006). Increases in alcohol and marijuana use during the transition out of high school into emerging adulthood: The effects of leaving home, going to college, and high school protective factors. Journal of Studies on Alcohol, 67(6), 810–822. https:// doi.org/10.2105/ajph.93.11.1929. 
+Wibrowski, C. R., Matthews, W. K., & Kitsantas, A. (2017). The Role of a Skills Learning Support Program on First-Generation College Students’ Self-Regulation, Motivation, and Academic Achievement: A Longitudinal Study. Journal of College Student Retention: Research, Theory & Practice, 19(3), 317–332. https://doi.org/10.1177/ 1521025116629152. 
+Substance Abuse and Mental Health Services Administration (SAMHSA) (2015). National Survey on Drug Use and Health (NSDUH). Table 6.84B—Tobacco Product and Alcohol Use in Past Month among Persons Aged 18 to 22, by College Enrollment Status: Percentages, 2014 and 2015. Retrieved from https://www.samhsa.gov/data/ sites/default/files/NSDUH-DetTabs-2015/NSDUH-DetTabs-2015/NSDUH-DetTabs 2015.htm#tab6-84b. 
